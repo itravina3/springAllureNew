@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Air-Irina.local",
+    "children" : [ {
+      "name" : "63149@MacBook-Air-Irina.local.main(1)",
+      "children" : [ {
+        "name" : "test2",
+        "uid" : "a406b531a3c5dbc0",
+        "parentUid" : "06ea3b2398ab2fd6f4a7d94a05c4c468",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714068528463,
+          "stop" : 1714068547892,
+          "duration" : 19429
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "06ea3b2398ab2fd6f4a7d94a05c4c468"
+    } ],
+    "uid" : "b912ab4545266bdb5bcea4a04a5fceac"
+  } ]
+}
