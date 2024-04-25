@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "springnew",
+      "children" : [ {
+        "name" : "com.example.demo.SpringTestNG",
+        "children" : [ {
+          "name" : "test2",
+          "uid" : "868b3ffe9cbd8fa5",
+          "parentUid" : "f9bd89e70eef2d605023fd2a8c433d2d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1714068528463,
+            "stop" : 1714068547892,
+            "duration" : 19429
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f9bd89e70eef2d605023fd2a8c433d2d"
+      } ],
+      "uid" : "2ce471d1a76caca219acdee238131422"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}
