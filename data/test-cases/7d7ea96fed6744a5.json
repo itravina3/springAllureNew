@@ -1,53 +1,21 @@
 {
-  "uid" : "d809ea912493facc",
+  "uid" : "7d7ea96fed6744a5",
   "name" : "test2",
   "fullName" : "com.example.demo.SpringTestNG.test2",
   "historyId" : "d6393596cd3570b394f062f11c8000d9",
   "time" : {
-    "start" : 1713970057530,
-    "stop" : 1713970073614,
-    "duration" : 16084
+    "start" : 1713970525197,
+    "stop" : 1713970545991,
+    "duration" : 20794
   },
   "status" : "passed",
   "flaky" : false,
   "beforeStages" : [ {
     "name" : "beforeTest",
     "time" : {
-      "start" : 1713970053820,
-      "stop" : 1713970053829,
+      "start" : 1713970521391,
+      "stop" : 1713970521400,
       "duration" : 9
-    },
-    "description" : "",
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : false
-  }, {
-    "name" : "springTestContextBeforeTestClass",
-    "time" : {
-      "start" : 1713970053862,
-      "stop" : 1713970053876,
-      "duration" : 14
-    },
-    "description" : "",
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : false
-  }, {
-    "name" : "springTestContextPrepareTestInstance",
-    "time" : {
-      "start" : 1713970053878,
-      "stop" : 1713970055536,
-      "duration" : 1658
     },
     "description" : "",
     "status" : "passed",
@@ -61,9 +29,41 @@
   }, {
     "name" : "springTestContextBeforeTestMethod",
     "time" : {
-      "start" : 1713970055558,
-      "stop" : 1713970057235,
-      "duration" : 1677
+      "start" : 1713970523360,
+      "stop" : 1713970525026,
+      "duration" : 1666
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextBeforeTestClass",
+    "time" : {
+      "start" : 1713970521424,
+      "stop" : 1713970521430,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextPrepareTestInstance",
+    "time" : {
+      "start" : 1713970521431,
+      "stop" : 1713970523331,
+      "duration" : 1900
     },
     "description" : "",
     "status" : "passed",
@@ -76,11 +76,11 @@
     "hasContent" : false
   } ],
   "afterStages" : [ {
-    "name" : "springTestContextAfterTestClass",
+    "name" : "springTestContextAfterTestMethod",
     "time" : {
-      "start" : 1713970073656,
-      "stop" : 1713970073657,
-      "duration" : 1
+      "start" : 1713970546036,
+      "stop" : 1713970546058,
+      "duration" : 22
     },
     "description" : "",
     "status" : "passed",
@@ -92,11 +92,11 @@
     "shouldDisplayMessage" : false,
     "hasContent" : false
   }, {
-    "name" : "springTestContextAfterTestMethod",
+    "name" : "springTestContextAfterTestClass",
     "time" : {
-      "start" : 1713970073643,
-      "stop" : 1713970073651,
-      "duration" : 8
+      "start" : 1713970546061,
+      "stop" : 1713970546063,
+      "duration" : 2
     },
     "description" : "",
     "status" : "passed",
@@ -131,7 +131,7 @@
     "value" : "MacBook-Air-Irina.local"
   }, {
     "name" : "thread",
-    "value" : "54072@MacBook-Air-Irina.local.main(1)"
+    "value" : "54366@MacBook-Air-Irina.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -150,6 +150,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d809ea912493facc.json",
+  "source" : "7d7ea96fed6744a5.json",
   "parameterValues" : [ ]
 }

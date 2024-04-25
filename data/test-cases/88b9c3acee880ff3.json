@@ -1,37 +1,21 @@
 {
-  "uid" : "a406b531a3c5dbc0",
+  "uid" : "88b9c3acee880ff3",
   "name" : "test2",
   "fullName" : "com.example.demo.SpringTestNG.test2",
   "historyId" : "d6393596cd3570b394f062f11c8000d9",
   "time" : {
-    "start" : 1714068528463,
-    "stop" : 1714068547892,
-    "duration" : 19429
+    "start" : 1713969350459,
+    "stop" : 1713969376258,
+    "duration" : 25799
   },
   "status" : "passed",
   "flaky" : false,
   "beforeStages" : [ {
     "name" : "beforeTest",
     "time" : {
-      "start" : 1714068524880,
-      "stop" : 1714068524890,
-      "duration" : 10
-    },
-    "description" : "",
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : false
-  }, {
-    "name" : "springTestContextBeforeTestMethod",
-    "time" : {
-      "start" : 1714068526701,
-      "stop" : 1714068528111,
-      "duration" : 1410
+      "start" : 1713969346618,
+      "stop" : 1713969346629,
+      "duration" : 11
     },
     "description" : "",
     "status" : "passed",
@@ -45,8 +29,8 @@
   }, {
     "name" : "springTestContextBeforeTestClass",
     "time" : {
-      "start" : 1714068524910,
-      "stop" : 1714068524914,
+      "start" : 1713969346665,
+      "stop" : 1713969346669,
       "duration" : 4
     },
     "description" : "",
@@ -61,9 +45,25 @@
   }, {
     "name" : "springTestContextPrepareTestInstance",
     "time" : {
-      "start" : 1714068524915,
-      "stop" : 1714068526686,
-      "duration" : 1771
+      "start" : 1713969346670,
+      "stop" : 1713969348787,
+      "duration" : 2117
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "springTestContextBeforeTestMethod",
+    "time" : {
+      "start" : 1713969348809,
+      "stop" : 1713969350320,
+      "duration" : 1511
     },
     "description" : "",
     "status" : "passed",
@@ -76,11 +76,11 @@
     "hasContent" : false
   } ],
   "afterStages" : [ {
-    "name" : "springTestContextAfterTestClass",
+    "name" : "springTestContextAfterTestMethod",
     "time" : {
-      "start" : 1714068547920,
-      "stop" : 1714068547922,
-      "duration" : 2
+      "start" : 1713969376278,
+      "stop" : 1713969376286,
+      "duration" : 8
     },
     "description" : "",
     "status" : "passed",
@@ -92,11 +92,11 @@
     "shouldDisplayMessage" : false,
     "hasContent" : false
   }, {
-    "name" : "springTestContextAfterTestMethod",
+    "name" : "springTestContextAfterTestClass",
     "time" : {
-      "start" : 1714068547908,
-      "stop" : 1714068547917,
-      "duration" : 9
+      "start" : 1713969376289,
+      "stop" : 1713969376291,
+      "duration" : 2
     },
     "description" : "",
     "status" : "passed",
@@ -131,7 +131,7 @@
     "value" : "MacBook-Air-Irina.local"
   }, {
     "name" : "thread",
-    "value" : "63149@MacBook-Air-Irina.local.main(1)"
+    "value" : "53510@MacBook-Air-Irina.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -144,38 +144,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "4ec9c5e2b0b66708",
-      "status" : "passed",
-      "time" : {
-        "start" : 1713970525197,
-        "stop" : 1713970545991,
-        "duration" : 20794
-      }
-    }, {
-      "uid" : "d809ea912493facc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1713970057530,
-        "stop" : 1713970073614,
-        "duration" : 16084
-      }
-    }, {
-      "uid" : "294a967c08f1a054",
-      "status" : "passed",
-      "time" : {
-        "start" : 1713969350459,
-        "stop" : 1713969376258,
-        "duration" : 25799
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a406b531a3c5dbc0.json",
+  "source" : "88b9c3acee880ff3.json",
   "parameterValues" : [ ]
 }

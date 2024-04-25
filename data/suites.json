@@ -9,7 +9,7 @@
         "name" : "com.example.demo.SpringTestNG",
         "children" : [ {
           "name" : "test2",
-          "uid" : "a406b531a3c5dbc0",
+          "uid" : "604cdb15c1262238",
           "parentUid" : "f9bd89e70eef2d605023fd2a8c433d2d",
           "status" : "passed",
           "time" : {
